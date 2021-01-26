@@ -1,2 +1,2 @@
-This is a text
+Thisis
 Testing commit and git commands on empty repo
